@@ -1,0 +1,9 @@
+{
+  "id" : "def725989f0c4abab0006cf8c5f817e0",
+  "name" : "xbony2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczOTU5NTQxODMyNCwKICAicHJvZmlsZUlkIiA6ICJkZWY3MjU5ODlmMGM0YWJhYjAwMDZjZjhjNWY4MTdlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4Ym9ueTIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZkNjUwNmI4OTkyNTc0MGY3YjA3YTA2YzAzZTllYmMwYWI3MGMyNWE2YjI2ODZjMzUzZTNjNjcxNTJlZDcwYyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

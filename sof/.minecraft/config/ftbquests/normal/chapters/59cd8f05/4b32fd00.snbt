@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -4.5d,
+	dependencies: [
+		"dfe90083"
+	],
+	tasks: [{
+		uid: "7e39dcfd",
+		type: "item",
+		items: [{
+			item: "pyrotech:lamp_oil"
+		}]
+	}]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d3aea46728394d2b88374fc68162d4b5",
+  "name" : "Flaxbeard",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MTk1ODQ0OTIyMCwKICAicHJvZmlsZUlkIiA6ICJkM2FlYTQ2NzI4Mzk0ZDJiODgzNzRmYzY4MTYyZDRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGbGF4YmVhcmQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzE0ZjhmZTZmOTU2OGY3Y2ZkOTQxNWEyMTM3ODMwODAwMzM2ZGQxZDI4NDI4MzkyMzgzMWRjYjhkODBlNmUwNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

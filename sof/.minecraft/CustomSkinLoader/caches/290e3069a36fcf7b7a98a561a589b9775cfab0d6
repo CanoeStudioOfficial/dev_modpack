@@ -1,0 +1,9 @@
+{
+  "id" : "a7ec08830ab449b3acc4cdcf9ab44cf4",
+  "name" : "FruktHamster",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY2MDYyMzg4MywKICAicHJvZmlsZUlkIiA6ICJhN2VjMDg4MzBhYjQ0OWIzYWNjNGNkY2Y5YWI0NGNmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcnVrdEhhbXN0ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY3MGFlZWZiZTQ2ZDBkZWU4NjM5M2YyOGRlZGQyMTEzMTVjM2I3MGZiNjc2NTMwYTQxYTdmMWM1ZjIzZTU4NCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

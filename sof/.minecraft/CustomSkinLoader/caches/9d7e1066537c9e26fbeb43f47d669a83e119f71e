@@ -1,0 +1,9 @@
+{
+  "id" : "c501d5507e3c463e8a95256f86d9a47d",
+  "name" : "chicken_bones",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY4ODU0NjU0NSwKICAicHJvZmlsZUlkIiA6ICJjNTAxZDU1MDdlM2M0NjNlOGE5NTI1NmY4NmQ5YTQ3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlja2VuX2JvbmVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNmQzNjM0OTE1YWUzYmFmNzQ5NWE2Mzc3MmYyZDA4MTY1N2NkYWYzYTkwYmRiYmQ4MzJjMzNiYTQ1ZTc1ZjIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

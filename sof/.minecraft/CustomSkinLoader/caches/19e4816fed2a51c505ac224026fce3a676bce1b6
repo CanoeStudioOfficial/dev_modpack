@@ -1,0 +1,9 @@
+{
+  "id" : "4e5334360fac49aa9f340e94a415d80c",
+  "name" : "Kyrinon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczODk5NjU4MjMyNiwKICAicHJvZmlsZUlkIiA6ICI0ZTUzMzQzNjBmYWM0OWFhOWYzNDBlOTRhNDE1ZDgwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLeXJpbm9uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5NWYxNTU5ZDNlYTMzYzk4N2Q4NmRlMDYyMTMzY2UxMTExYjMxMjE1YTVjNDViYzhlYTFiOTg3OGI0OWFiOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

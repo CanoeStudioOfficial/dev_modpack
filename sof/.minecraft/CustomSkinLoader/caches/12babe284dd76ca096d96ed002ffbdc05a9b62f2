@@ -1,0 +1,9 @@
+{
+  "id" : "e236196ec7c646d6b6adffe81c03bf19",
+  "name" : "mezz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzUwNTY3NywKICAicHJvZmlsZUlkIiA6ICJlMjM2MTk2ZWM3YzY0NmQ2YjZhZGZmZTgxYzAzYmYxOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtZXp6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3ZTJjM2I1ZTViNWJlOWI1NDFlNzI5MjU1YTM2NTI5ZmE5MDRmOTM0MDU1ZDllZTYyNWE4MjU3MWNiOGExOTIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

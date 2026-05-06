@@ -1,0 +1,9 @@
+{
+  "id" : "93b459bece4f4700b457c1aa91b3b687",
+  "name" : "Etho",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODA2NzgwMCwKICAicHJvZmlsZUlkIiA6ICI5M2I0NTliZWNlNGY0NzAwYjQ1N2MxYWE5MWIzYjY4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdGhvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMGZhZGFjYmM1N2FkMTJmNjZjZjAzYmI2MmI3M2VhZGU1OWI2NmZkMzM2Nzk1YWJiMzExZjQwYWQxOTZlZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

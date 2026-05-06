@@ -1,0 +1,9 @@
+{
+  "id" : "ed260cac54e44ee5b4ded289f197fa45",
+  "name" : "Keralis1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjUwMTcyMSwKICAicHJvZmlsZUlkIiA6ICJlZDI2MGNhYzU0ZTQ0ZWU1YjRkZWQyODlmMTk3ZmE0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZXJhbGlzMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTEwY2YwOWViZGQwYWIwNWYxMTY3NDU1MmMwODg0NDc4ZTIxZmJlZjVmNmI0NWMyYzVkZTcxN2NjN2FmMzEyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "0aea869e630241fca8dbea5ce4b46c33",
+  "name" : "Amnet",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzM0NDg1MDE0MywKICAicHJvZmlsZUlkIiA6ICIwYWVhODY5ZTYzMDI0MWZjYThkYmVhNWNlNGI0NmMzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbW5ldCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTUyOGMyMGVlMDU3Y2Y5MGEzY2RmODU5YTIyMWU1Y2I2YTFjMzA0ZTdhMjEyOGIzY2M3NWIzN2RmZDExYzFlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

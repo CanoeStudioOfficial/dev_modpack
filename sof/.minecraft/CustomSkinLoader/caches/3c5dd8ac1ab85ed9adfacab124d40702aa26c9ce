@@ -1,0 +1,9 @@
+{
+  "id" : "e690d30c18484daab42cc26581b7b4eb",
+  "name" : "FuriousDestroyer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNzk2MjAwMiwKICAicHJvZmlsZUlkIiA6ICJlNjkwZDMwYzE4NDg0ZGFhYjQyY2MyNjU4MWI3YjRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdXJpb3VzRGVzdHJveWVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwYWViMDgwOGMyOWMyMTE2MmIwNTRhMTE3ZGVjNmI5MDE0ZDRjMGNiYjBlYmQwMzQ2MmY0YTkyOTM1YTliOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

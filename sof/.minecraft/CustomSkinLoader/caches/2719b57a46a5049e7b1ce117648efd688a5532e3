@@ -1,0 +1,9 @@
+{
+  "id" : "024a0d053e3e4ec5b3946e1a22d23fdc",
+  "name" : "Bacon_Donut",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMxOTMyMDQ3NSwKICAicHJvZmlsZUlkIiA6ICIwMjRhMGQwNTNlM2U0ZWM1YjM5NDZlMWEyMmQyM2ZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYWNvbl9Eb251dCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYTYwYWUxM2Q1MTc0N2UyZjVjY2YzNmE5ZDU0ZmQ2ODY2MGQ5MTVjNjQyMzQyNTVhOTAyYTVkMzRhZDk5OGZmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

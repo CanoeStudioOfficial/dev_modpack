@@ -1,0 +1,9 @@
+{
+  "id" : "af1483804ba54a3da47d710f710f9265",
+  "name" : "Minalien",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTE0MTg1MjM2OCwKICAicHJvZmlsZUlkIiA6ICJhZjE0ODM4MDRiYTU0YTNkYTQ3ZDcxMGY3MTBmOTI2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5hbGllbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZjNkYzI0NzQyOGRhZmY1ZjQyYTMyMmNjNTNkZjdiYWUyOWRmNDkyYjVkZTc5YjVmNTU0M2UyMjM4ODFhMjRjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

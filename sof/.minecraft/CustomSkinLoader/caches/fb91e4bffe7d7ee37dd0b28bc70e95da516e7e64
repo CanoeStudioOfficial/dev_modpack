@@ -1,0 +1,9 @@
+{
+  "id" : "b35b770525b145569bfab3ec57cf263d",
+  "name" : "copygirl",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjUxMDAxMCwKICAicHJvZmlsZUlkIiA6ICJiMzViNzcwNTI1YjE0NTU2OWJmYWIzZWM1N2NmMjYzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb3B5Z2lybCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTc3NzAxMjIyYzQ0ZjBiMjE3MmYzODNlZTEzMzg0M2I3M2E0YzVjZTNiODk1ODBiODEwNjQyMWM1NDJkZGIxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

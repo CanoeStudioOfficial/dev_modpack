@@ -1,0 +1,9 @@
+{
+  "id" : "966ebb69a63d4bb2ac90ed39d8c64b80",
+  "name" : "generikb",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczOTYxMjc3Njc1MSwKICAicHJvZmlsZUlkIiA6ICI5NjZlYmI2OWE2M2Q0YmIyYWM5MGVkMzlkOGM2NGI4MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJnZW5lcmlrYiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNDJjOTFhZmU4YTA0ODg1NDA4YWUwMGExZTIwNmQ0M2RhNDBjNzU5NWFkMWY1YTA1MWI0NGM4YzdjYTZjYmUxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

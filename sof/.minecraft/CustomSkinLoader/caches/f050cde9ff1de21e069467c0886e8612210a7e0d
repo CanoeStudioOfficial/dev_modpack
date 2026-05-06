@@ -1,0 +1,9 @@
+{
+  "id" : "2c6d7b3d76744b188d86bb6a707ea8e4",
+  "name" : "Xephos",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1Njk3NTU0NCwKICAicHJvZmlsZUlkIiA6ICIyYzZkN2IzZDc2NzQ0YjE4OGQ4NmJiNmE3MDdlYThlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZXBob3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTY3ODg3YTg4ZjFjNTc5Y2QxYWQwYjIzNzhlNzI2NzhhMTYwZDMxM2NjNDBjMjRhODJmOTZlYTk2ZTI3MjY2YyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

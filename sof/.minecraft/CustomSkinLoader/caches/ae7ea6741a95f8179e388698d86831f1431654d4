@@ -1,0 +1,9 @@
+{
+  "id" : "a67c6e5019064e0697bbdc5e3246b725",
+  "name" : "Aivu",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwMjA5NDUyNiwKICAicHJvZmlsZUlkIiA6ICJhNjdjNmU1MDE5MDY0ZTA2OTdiYmRjNWUzMjQ2YjcyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXZ1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkODY4NzZkZGYzYWNkOGMxYTQxNjQ5NDk3NmZhY2ZlZGRjNDY1MTZhZjJjODBiYmE1NmM1YjMxYTc3MzJmOTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

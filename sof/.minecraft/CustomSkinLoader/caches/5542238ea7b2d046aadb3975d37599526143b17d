@@ -1,0 +1,9 @@
+{
+  "id" : "05cf1ad59a234b9182b05a15f1ff29d4",
+  "name" : "Pokefenn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwMjA5Mjk3NSwKICAicHJvZmlsZUlkIiA6ICIwNWNmMWFkNTlhMjM0YjkxODJiMDVhMTVmMWZmMjlkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2tlZmVubiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYmY2YThiZDRmOTAzNGVkY2I2NTlhNGMyMzM0MDczYTIzYmUyNGU5Y2IxODk2ZWE0N2I3NDA2YTE0ZGNkYzUzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

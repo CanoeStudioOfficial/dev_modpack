@@ -1,0 +1,9 @@
+{
+  "id" : "b559d81480794dc692c90ca7039483a3",
+  "name" : "Skuli_Steinulf",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODA4ODgxNiwKICAicHJvZmlsZUlkIiA6ICJiNTU5ZDgxNDgwNzk0ZGM2OTJjOTBjYTcwMzk0ODNhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsaV9TdGVpbnVsZiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZTY4YmFlYmYxOTk2MzNjYjQxZTM0NDM4OTJkYjg4Y2NlOTA5YmQ5ZjY3NzJjNmE2YjA0MzU4YmM5MzNlYmYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

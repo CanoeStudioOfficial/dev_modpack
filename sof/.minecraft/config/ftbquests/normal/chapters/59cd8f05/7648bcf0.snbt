@@ -1,0 +1,43 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	dependencies: [
+		"968be43b"
+	],
+	tasks: [{
+		uid: "39f8a42e",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_axe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5ad1799b",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_hoe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "88590adb",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "636f680e",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_shovel"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "3e09fef359e64390bfcfd4726e60c957",
+  "name" : "Erasmus_Crowley",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY5NTU2MTc0MywKICAicHJvZmlsZUlkIiA6ICIzZTA5ZmVmMzU5ZTY0MzkwYmZjZmQ0NzI2ZTYwYzk1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmFzbXVzX0Nyb3dsZXkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdiYmVkOTM1MmMzMDFlMjRlYTY5MDVlYTY1MjVjNzFjOWYyNThhZTM0MDc1OGYwYzliOGNhNDBlNzRlMjY1NiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

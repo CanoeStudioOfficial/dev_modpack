@@ -1,0 +1,9 @@
+{
+  "id" : "28daf992f8c5405ba654e2615d889c72",
+  "name" : "Bashur",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTEyODMwNjU2OCwKICAicHJvZmlsZUlkIiA6ICIyOGRhZjk5MmY4YzU0MDViYTY1NGUyNjE1ZDg4OWM3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYXNodXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZmNWE2Y2NkMTZiZDc1NGRlNDdlZmJmZjgxMzM4ZGIzNzAzMzVmZjA5ZWVhYTFmN2E4MjAwZTg3NzI1ZWZmMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

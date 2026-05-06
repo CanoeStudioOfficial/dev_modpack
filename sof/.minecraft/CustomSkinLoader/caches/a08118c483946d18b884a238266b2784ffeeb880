@@ -1,0 +1,9 @@
+{
+  "id" : "9000e6350e3e422594214a2ce2a92227",
+  "name" : "Straymaverick",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjEzNjc4OCwKICAicHJvZmlsZUlkIiA6ICI5MDAwZTYzNTBlM2U0MjI1OTQyMTRhMmNlMmE5MjIyNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdHJheW1hdmVyaWNrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1NzM5YWNhNjgyOTgxYWRmYWU1MjJlZTlkOWIwZGVlM2I0ZTI2YjdkN2I2MWQyMjFkMzEwNGRmZjM1MjUyMWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

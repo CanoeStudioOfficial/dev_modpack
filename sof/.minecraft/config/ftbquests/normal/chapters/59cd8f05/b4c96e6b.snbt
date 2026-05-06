@@ -1,0 +1,10 @@
+{
+	title: "进入异世界",
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "86e5af26",
+		type: "dimension",
+		dim: 0
+	}]
+}

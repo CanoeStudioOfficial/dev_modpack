@@ -1,0 +1,9 @@
+{
+  "id" : "c388dcae43c54c4093fc4358c2a464b4",
+  "name" : "Pyro_0",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODI5NTgyMSwKICAicHJvZmlsZUlkIiA6ICJjMzg4ZGNhZTQzYzU0YzQwOTNmYzQzNThjMmE0NjRiNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXJvXzAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2U0ZGNkMWRlNmM4ZTRlNDk0MzYyNWFjYjY1ZTZhMGNmNzcxMjI3NDhmNGY2MjZlOTk5M2VkN2QxYzg0NzhkNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,6 @@
+
+{
+  "Name": "falling_rock",
+  "Registry ID": "aether_legacy:falling_rock",
+  "Class": "com.gildedgames.the_aether.lost.entities.EntityFallingRock"
+}

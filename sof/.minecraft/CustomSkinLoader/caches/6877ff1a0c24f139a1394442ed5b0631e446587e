@@ -1,0 +1,9 @@
+{
+  "id" : "c3021db0192c41dfbc8562f7ec51d7ef",
+  "name" : "MidnightEnforcer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk4MjYwOTkzNSwKICAicHJvZmlsZUlkIiA6ICJjMzAyMWRiMDE5MmM0MWRmYmM4NTYyZjdlYzUxZDdlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWRuaWdodEVuZm9yY2VyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQxYTg4MWE2MGQzMjc2ODM3MjcxNDA4MWU1ODcwY2E3Mjg2YmQ4M2I0ZGJlYjhiNWYxOGVlNDc0YTFiNGFmM2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

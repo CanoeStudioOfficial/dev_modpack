@@ -1,0 +1,9 @@
+{
+  "id" : "2f41e1319fce45f9b65d43681b1865a3",
+  "name" : "Mineshopper",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjUxODExMCwKICAicHJvZmlsZUlkIiA6ICIyZjQxZTEzMTlmY2U0NWY5YjY1ZDQzNjgxYjE4NjVhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lc2hvcHBlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMWMxZGExOTBlODczM2E3ZTRlODU3YzkxZDUzODMxYmJkZjcwZjJiMGYxMTlhMTNhNzliZDM2MGFmYzNjMTI2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "748a5f29f24242c7b7d9652f2dd64a4e",
+  "name" : "ted80",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzM5NDI3OCwKICAicHJvZmlsZUlkIiA6ICI3NDhhNWYyOWYyNDI0MmM3YjdkOTY1MmYyZGQ2NGE0ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0ZWQ4MCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTFiZmVlOTRjN2ZkM2U3ZjYxYjVlNjIzNjYzOWViYzcxNmM5ZDBlODgyNTRlNjkyODAyNzIyYTAyZmM2NThlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

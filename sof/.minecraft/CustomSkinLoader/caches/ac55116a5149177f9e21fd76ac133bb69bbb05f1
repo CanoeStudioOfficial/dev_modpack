@@ -1,0 +1,9 @@
+{
+  "id" : "62fec5a318964beb94e036e34898c787",
+  "name" : "Tango",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMTE1NDQwNSwKICAicHJvZmlsZUlkIiA6ICI2MmZlYzVhMzE4OTY0YmViOTRlMDM2ZTM0ODk4Yzc4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW5nbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMjg4ODJlYjEwZGZkZDE5MWY0YjBmMGUxODQyYmM4M2RhMzJlM2EyNDhhNzc5ZjMwMGRjY2Y1NmM4NDVhZWNhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

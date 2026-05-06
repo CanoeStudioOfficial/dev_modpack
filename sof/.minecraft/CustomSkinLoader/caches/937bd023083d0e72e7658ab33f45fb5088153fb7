@@ -1,0 +1,9 @@
+{
+  "id" : "ffc7fc293ff14f03833f01698823a14f",
+  "name" : "Vechs_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0Mzg1MTM1Njg4NCwKICAicHJvZmlsZUlkIiA6ICJmZmM3ZmMyOTNmZjE0ZjAzODMzZjAxNjk4ODIzYTE0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWZWNoc18iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTFkNGUxZDhiMzI0OGU1NDdlODAwODkxYmI3NzE2YzJhZmVhNDhkZWQ4YjA1NWEyNTJkYjY1ZTY0NmYzZDc5NyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "1f234ca14d584525b7217706560071d6",
+  "name" : "Zisteau",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMxOTYzMjI1NSwKICAicHJvZmlsZUlkIiA6ICIxZjIzNGNhMTRkNTg0NTI1YjcyMTc3MDY1NjAwNzFkNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaaXN0ZWF1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1NWM1NzhlZDlkMmE5YTkyNmExOTNlZGUxMzU3YjQ0OTBlNjQ3Njc2YjI5YTYyM2ViZWNmODIzNjQxMjkwZjUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "08788a6dc01641cb934045a08ed53d14",
+  "name" : "Vswe",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk3NjQ1OTIwNiwKICAicHJvZmlsZUlkIiA6ICIwODc4OGE2ZGMwMTY0MWNiOTM0MDQ1YTA4ZWQ1M2QxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWc3dlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0NzU0NTcwOGMwN2RiNDNjZDIwM2UwOThhY2JhZDQ2OTg1YzRmYjQ3Y2FlN2NjYWNhOTcyMWZhYWVmMzU0ZTciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

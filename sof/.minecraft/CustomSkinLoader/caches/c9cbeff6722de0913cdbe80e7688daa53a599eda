@@ -1,0 +1,9 @@
+{
+  "id" : "c221604f90af4af493cd531e190cf7c1",
+  "name" : "JSano19",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY5MDM3Mjg0OSwKICAicHJvZmlsZUlkIiA6ICJjMjIxNjA0ZjkwYWY0YWY0OTNjZDUzMWUxOTBjZjdjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKU2FubzE5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwZDgyZDAwN2EyOWExNWFmYzljMGFkY2RjNzg1MGI0YTJhZDhjZDMwMGZkZTE4MzZlMGExYjFmNzA4ODgwOSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

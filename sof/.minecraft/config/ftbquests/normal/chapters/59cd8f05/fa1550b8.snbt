@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: -5.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"dfe90083"
+	],
+	tasks: [{
+		uid: "5a7b2c1a",
+		type: "item",
+		items: [{
+			item: "pyrotech:stone_crucible"
+		}]
+	}]
+}

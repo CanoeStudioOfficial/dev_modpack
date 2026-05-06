@@ -1,0 +1,9 @@
+{
+  "id" : "48a16fc8bc1f4e7284e97ec73b7d8ea1",
+  "name" : "TTFTCUTS",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNzkyMjcwMCwKICAicHJvZmlsZUlkIiA6ICI0OGExNmZjOGJjMWY0ZTcyODRlOTdlYzczYjdkOGVhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUVEZUQ1VUUyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMmM5OGU2OThmZDUxMzU4MmZkNjQ4MThiODMwMTBkOTYzNTdhN2MxZDQyYjk0ZDIyMDYzM2U0NDI2MWE3YjAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

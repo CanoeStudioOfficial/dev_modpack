@@ -1,0 +1,9 @@
+{
+  "id" : "7dd55e6bf16b48048df52f50f7191b2d",
+  "name" : "LividCoffee",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMyMDI2MzY0MywKICAicHJvZmlsZUlkIiA6ICI3ZGQ1NWU2YmYxNmI0ODA0OGRmNTJmNTBmNzE5MWIyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaXZpZENvZmZlZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZWRmN2IzOWIyNjI0Y2E3N2NmYjc0MTJkNjljYWM2OGM4ZGJiZmU0YjcxOWZhOTA1MDViN2VkMmJkODAyOTM5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

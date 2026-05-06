@@ -1,0 +1,9 @@
+{
+  "id" : "0eff7eb1d1b74612a9c9791b7ad6277a",
+  "name" : "sfPlayer1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzM0NTA4ODM3MCwKICAicHJvZmlsZUlkIiA6ICIwZWZmN2ViMWQxYjc0NjEyYTljOTc5MWI3YWQ2Mjc3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzZlBsYXllcjEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Q5NWYyNWEzYzAwZTUzYTMyMWZkYzVkODA2OTUwNWQxMmZmYjIyOTAyNWY0MzBjMmMyZTg3MWJkMzIwN2IxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

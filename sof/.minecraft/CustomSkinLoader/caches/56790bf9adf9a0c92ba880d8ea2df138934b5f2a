@@ -1,0 +1,9 @@
+{
+  "id" : "f46302d20b7c4cc6aee9cd714ae6b9d1",
+  "name" : "ZeldoKavira",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY4ODU1NDM2MywKICAicHJvZmlsZUlkIiA6ICJmNDYzMDJkMjBiN2M0Y2M2YWVlOWNkNzE0YWU2YjlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZWxkb0thdmlyYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MzIxYjE2ZDY4NzFlNTNkNDIyOTk2NjIzMDdhMzM4NzczNGYzMzFkY2Q2NTFlZjg2YWZmOGEwOGFkNDk3MmU2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

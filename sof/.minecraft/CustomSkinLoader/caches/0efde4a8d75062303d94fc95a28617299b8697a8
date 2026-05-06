@@ -1,0 +1,9 @@
+{
+  "id" : "1ccfc34118b4455bbf53636adbba8e85",
+  "name" : "Krapht",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODY4ODAwMSwKICAicHJvZmlsZUlkIiA6ICIxY2NmYzM0MTE4YjQ0NTViYmY1MzYzNmFkYmJhOGU4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmFwaHQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTgxNTBlOTVkMjY5OTQ2NjQ2ZTFjN2FiOTJlZDUxOWViYWQ5NTc4MzY5NjhjMDA0N2YzM2ZhN2JhZTAyZTRhYyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

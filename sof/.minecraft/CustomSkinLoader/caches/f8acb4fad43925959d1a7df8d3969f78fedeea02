@@ -1,0 +1,9 @@
+{
+  "id" : "ae96f4b9eb7740089735992e96e0171b",
+  "name" : "Talonos",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODE3MTg4NywKICAicHJvZmlsZUlkIiA6ICJhZTk2ZjRiOWViNzc0MDA4OTczNTk5MmU5NmUwMTcxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvbm9zIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhNzhmY2ZkNzBiMmFiMjQwM2IxZDY2MGFiNzY2YjdjMDgyMGY5ZGE3MzEzOTVmZWQxMGE4OWYyYzViNDdlYjMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

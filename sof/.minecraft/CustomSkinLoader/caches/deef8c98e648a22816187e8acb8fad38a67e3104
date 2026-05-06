@@ -1,0 +1,9 @@
+{
+  "id" : "068f1084e64a483b95aeb935f7730532",
+  "name" : "ashzification",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTk4MTgzNDI3MywKICAicHJvZmlsZUlkIiA6ICIwNjhmMTA4NGU2NGE0ODNiOTVhZWI5MzVmNzczMDUzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhc2h6aWZpY2F0aW9uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0NWM0NjhlZDg1YjMxMTczMmNhZjhhNWI3MGE4NTA4ZjY1NjlkMDg0Zjc3MDQ0YmU3YjU2NjFiMDAxMDYzMTEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

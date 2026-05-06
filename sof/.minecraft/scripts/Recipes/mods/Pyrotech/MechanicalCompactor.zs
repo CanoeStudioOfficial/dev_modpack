@@ -1,0 +1,2 @@
+import mods.pyrotech.MechanicalCompactor;
+

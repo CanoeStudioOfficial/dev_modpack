@@ -1,0 +1,9 @@
+{
+  "id" : "05e88dce714d4218be77fade8b5dfa3c",
+  "name" : "Docm77",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMyMDI2MjU4NywKICAicHJvZmlsZUlkIiA6ICIwNWU4OGRjZTcxNGQ0MjE4YmU3N2ZhZGU4YjVkZmEzYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb2NtNzciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzcyZDhiZDYzMDg4ZmIxNzlkZmViZTI5ODBlMTE0NjBiOTM3MjliMTNmYWQ3MjgzYzk5OTA2ZWM5ZWM3Yjk5ZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

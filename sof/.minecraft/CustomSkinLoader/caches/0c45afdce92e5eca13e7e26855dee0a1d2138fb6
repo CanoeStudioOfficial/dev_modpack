@@ -1,0 +1,9 @@
+{
+  "id" : "396e852e37f5403d9a229540bb0360ce",
+  "name" : "sdkillen",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcwNTkzNzYyNjU5NSwKICAicHJvZmlsZUlkIiA6ICIzOTZlODUyZTM3ZjU0MDNkOWEyMjk1NDBiYjAzNjBjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzZGtpbGxlbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

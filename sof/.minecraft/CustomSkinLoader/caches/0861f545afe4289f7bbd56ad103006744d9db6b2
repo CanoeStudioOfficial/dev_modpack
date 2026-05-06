@@ -1,0 +1,9 @@
+{
+  "id" : "0a6bb310b2c34b4bb5e788e5cd0b54c9",
+  "name" : "c4ts",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzM0NTYxOTU5MCwKICAicHJvZmlsZUlkIiA6ICIwYTZiYjMxMGIyYzM0YjRiYjVlNzg4ZTVjZDBiNTRjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjNHRzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmMDAzZDNlMWNlMDk2OGUzNTFkNDdhZGIxY2E4YTg2ZjRiMDQyMzNkNzI0MjUyMTZjNGE3NGE3MWZkNTlkZWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

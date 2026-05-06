@@ -1,0 +1,15 @@
+{
+	x: -2.5d,
+	y: -4.5d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"f7efa55a"
+	],
+	tasks: [{
+		uid: "f4021926",
+		type: "item",
+		items: [{
+			item: "pyrotech:stash"
+		}]
+	}]
+}

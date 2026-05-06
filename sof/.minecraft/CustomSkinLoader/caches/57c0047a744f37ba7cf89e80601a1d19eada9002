@@ -1,0 +1,9 @@
+{
+  "id" : "3c9b9448d53247459aac509f38ff81d5",
+  "name" : "Kaelten",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1Njk0NDM2NSwKICAicHJvZmlsZUlkIiA6ICIzYzliOTQ0OGQ1MzI0NzQ1OWFhYzUwOWYzOGZmODFkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWVsdGVuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmOWM0OGI1NTdhNDQzMDE5YjU4ZjY2ZmY2YThhMDEwOGQ2YTE1MmY1NjMwYzFmZmRlNmYxYzA0NWE2ZDM4YjEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

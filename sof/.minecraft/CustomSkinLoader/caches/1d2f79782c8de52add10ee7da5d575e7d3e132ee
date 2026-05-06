@@ -1,0 +1,9 @@
+{
+  "id" : "c2e8c8ff35884546ba7df97789517d00",
+  "name" : "Alblaka",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NjYzNDEyMSwKICAicHJvZmlsZUlkIiA6ICJjMmU4YzhmZjM1ODg0NTQ2YmE3ZGY5Nzc4OTUxN2QwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGJsYWthIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyNDhiOGIyNmRhNjAwYmVlN2UzOWE4ZjBiZjJhNDg3NDU4NTQxYjQyMDBiMDY0Y2NhZjY1OWVjMDA1MzNjNGUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

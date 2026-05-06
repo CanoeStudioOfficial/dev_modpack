@@ -1,0 +1,9 @@
+{
+  "id" : "68af6d40a79e4a2998469d4a319ec774",
+  "name" : "GregoriusT",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNzkzMTE5OSwKICAicHJvZmlsZUlkIiA6ICI2OGFmNmQ0MGE3OWU0YTI5OTg0NjlkNGEzMTllYzc3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmVnb3JpdXNUIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlYzgwOGMwNzZkYjc4NGVlZTkwOWFjZmRkNzI3MWZiYWUxMGVkZWNkMTM2ZGRlZjVmMDFjMmFhZTIwOWFiZjQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

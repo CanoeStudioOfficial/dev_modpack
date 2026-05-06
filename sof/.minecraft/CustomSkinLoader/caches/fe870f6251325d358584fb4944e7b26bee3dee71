@@ -1,0 +1,9 @@
+{
+  "id" : "22d76516ac19477688e4ce884534ccb4",
+  "name" : "Mfernflower",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzI0NTIwMCwKICAicHJvZmlsZUlkIiA6ICIyMmQ3NjUxNmFjMTk0Nzc2ODhlNGNlODg0NTM0Y2NiNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZmVybmZsb3dlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZmE3NjI1NGEyY2U4NWNjMjM4MzU3ZDRjNjMwOWEzOTAzNDMwNDM1N2Y0M2Y1NDZiMGMwMjQ0NDAwMDAzMDIzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

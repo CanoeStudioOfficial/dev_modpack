@@ -1,0 +1,9 @@
+{
+  "id" : "bc081b1be3454f6faef8dbe8b56ea17d",
+  "name" : "Captainnana",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNzkyMjcwOSwKICAicHJvZmlsZUlkIiA6ICJiYzA4MWIxYmUzNDU0ZjZmYWVmOGRiZThiNTZlYTE3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXB0YWlubmFuYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MjZlMTE5NGM0OTUxODc1YzE2Yzk5NTRlZTFhMzA3MDI5ZGRkMGY3MmQ4NjRiMWRmNjQyZmQ3MTlhMTIwMjNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

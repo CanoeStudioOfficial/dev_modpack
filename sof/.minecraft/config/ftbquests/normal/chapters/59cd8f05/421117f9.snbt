@@ -1,0 +1,14 @@
+{
+	x: 14.0d,
+	y: -4.0d,
+	dependencies: [
+		"529a2879"
+	],
+	tasks: [{
+		uid: "43471d0a",
+		type: "item",
+		items: [{
+			item: "pyrotech:mechanical_bellows"
+		}]
+	}]
+}

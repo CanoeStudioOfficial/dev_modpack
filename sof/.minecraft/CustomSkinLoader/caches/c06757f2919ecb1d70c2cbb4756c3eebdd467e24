@@ -1,0 +1,9 @@
+{
+  "id" : "308bd7b594ca4a45bcc434f5eb6b8d98",
+  "name" : "DrZhark",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODE5MDI3NiwKICAicHJvZmlsZUlkIiA6ICIzMDhiZDdiNTk0Y2E0YTQ1YmNjNDM0ZjVlYjZiOGQ5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEclpoYXJrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ZDA0ZDdjZjQyN2ZjYWViNjczYWNlODE0ZGM1MzMwZDEwZGMzYjc3ZDY2MGI3MDBlMDQxNzY2NWU0YjIxNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

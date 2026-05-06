@@ -1,0 +1,9 @@
+{
+  "id" : "8f9bc2ed1bb541ed91be02625c76bd7f",
+  "name" : "Honeydew",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzY0NTQ1MSwKICAicHJvZmlsZUlkIiA6ICI4ZjliYzJlZDFiYjU0MWVkOTFiZTAyNjI1Yzc2YmQ3ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb25leWRldyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjQxMzFlYmY0Mjc2NDg5ZmNjYTE2ODBmYjk5MWEwNzc2YzljZDQ4NmRmMzY4MDliZmVhZjhiZGMxMzhhMjQ1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

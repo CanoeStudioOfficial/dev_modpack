@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: -4.0d,
+	dependencies: [
+		"cb89fd3e"
+	],
+	tasks: [{
+		uid: "4c1e46ef",
+		type: "item",
+		items: [{
+			item: "pyrotech:brick_kiln"
+		}]
+	}]
+}

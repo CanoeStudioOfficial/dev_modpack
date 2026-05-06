@@ -1,0 +1,9 @@
+{
+  "id" : "8fba47e6dab24a17873f7a1233cf12d4",
+  "name" : "Pungence",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjE3ODExNCwKICAicHJvZmlsZUlkIiA6ICI4ZmJhNDdlNmRhYjI0YTE3ODczZjdhMTIzM2NmMTJkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdW5nZW5jZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmRjYWU1OWRlYmExYjk2MjQxOGE1YzZlNzYxNzE0YjU4NjM4MjkwODZjMWQ1NjhmZjYzMjIyYTNmZWUzOTZlIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTNiMWEwZGZjYmFlOTUzY2RlYjZmMmMyYmY2YmY3OTk0MzIzOWIxMzcyNzgwZGE0NGJjYmIyOTI3MzEzMWRhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

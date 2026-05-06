@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: -4.5d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"f7efa55a"
+	],
+	tasks: [{
+		uid: "53d3e9c8",
+		type: "item",
+		items: [{
+			item: "pyrotech:faucet_stone"
+		}]
+	}]
+}

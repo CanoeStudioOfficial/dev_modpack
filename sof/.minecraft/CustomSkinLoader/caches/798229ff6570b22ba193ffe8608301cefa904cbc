@@ -1,0 +1,9 @@
+{
+  "id" : "5001b9575a934c269f1912125d840d6f",
+  "name" : "Morre",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODM3OTQ4NiwKICAicHJvZmlsZUlkIiA6ICI1MDAxYjk1NzVhOTM0YzI2OWYxOTEyMTI1ZDg0MGQ2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3JyZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

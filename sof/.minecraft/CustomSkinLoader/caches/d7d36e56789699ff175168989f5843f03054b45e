@@ -1,0 +1,9 @@
+{
+  "id" : "d8f9a4340f2d415f9acfcd70341c75ec",
+  "name" : "kappe",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzM0NDY5MzMzNywKICAicHJvZmlsZUlkIiA6ICJkOGY5YTQzNDBmMmQ0MTVmOWFjZmNkNzAzNDFjNzVlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYXBwZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

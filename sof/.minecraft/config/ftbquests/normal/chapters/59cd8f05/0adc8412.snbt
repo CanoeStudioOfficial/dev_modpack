@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -3.5d,
+	dependencies: [
+		"ef363267"
+	],
+	tasks: [{
+		uid: "65cecd4c",
+		type: "item",
+		items: [{
+			item: "pyrotech:anvil_obsidian"
+		}]
+	}]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "60097403d53640fe92d6b745283379fb",
+  "name" : "Fosler",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczOTEwODMzNDQzMiwKICAicHJvZmlsZUlkIiA6ICI2MDA5NzQwM2Q1MzY0MGZlOTJkNmI3NDUyODMzNzlmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGb3NsZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY3ZTYxOGFiYjc1YWFjNzVjNTM2ZGIyYmViZTFjZTgwMTA2Y2JjMTJiOGM2MjRiMzlhYmJkYTNlOTUxZTU2MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

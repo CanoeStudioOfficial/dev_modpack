@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	dependencies: [
+		"dfe90083"
+	],
+	tasks: [{
+		uid: "40e5258f",
+		type: "item",
+		items: [{
+			item: "pyrotech:butchers_block"
+		}]
+	}]
+}

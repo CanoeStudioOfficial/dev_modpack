@@ -1,0 +1,9 @@
+{
+  "id" : "a7d0e9ee20e34654908b3f22d3179bff",
+  "name" : "Sips_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMjMyODI0NiwKICAicHJvZmlsZUlkIiA6ICJhN2QwZTllZTIwZTM0NjU0OTA4YjNmMjJkMzE3OWJmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaXBzXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNzhiMWRiYjRlOTMzZmFkZTVmNWE5NjIxYjZiMzBhN2Y0M2NmYzZlMTkzYzYzNjM5Zjg2MjcyYjBiYjE1ZDYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "4ce6ca9f91574e88a8740bb42c15a593",
+  "name" : "Sevadus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODY1OTM0MTQ5OCwKICAicHJvZmlsZUlkIiA6ICI0Y2U2Y2E5ZjkxNTc0ZTg4YTg3NDBiYjQyYzE1YTU5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXZhZHVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyODE0OGIzZTA1ODI5OWRkZjM5YjViODRiMGVmMWM5N2JmZjY5NDdiN2RiOTBlNzJlNzExMzNlZWM5YzJkOWQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "e9fb628a53a6454896da3a7ef708c366",
+  "name" : "Nuchaz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMxOTk3NDIxNCwKICAicHJvZmlsZUlkIiA6ICJlOWZiNjI4YTUzYTY0NTQ4OTZkYTNhN2VmNzA4YzM2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOdWNoYXoiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdkNTEzMjA5MmE1MTVjMzkxODRmNTdkOGYxODUwYTk2YTM3ZDdlMmE4OTk3NjlmZTgyMzcwOTUzZDQxODczNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "cf3e2c7ed70348e0808ef139bf26ff9d",
+  "name" : "EcuTruin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTE0MTQ4Mzc5NCwKICAicHJvZmlsZUlkIiA6ICJjZjNlMmM3ZWQ3MDM0OGUwODA4ZWYxMzliZjI2ZmY5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY3VUcnVpbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84N2ZjYmU3MTYwODdhYjQ1MTg1OTE4MWMxYjA1YzEzZjAwYmJhYmM3ZmQ1M2YxYmEwNmQ4OGI3ZTBhODhjNTA3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	dependencies: [
+		"074c86ea"
+	],
+	tasks: [{
+		uid: "f045d2b3",
+		type: "item",
+		items: [{
+			item: "pyrotech:refractory_door"
+		}]
+	}]
+}

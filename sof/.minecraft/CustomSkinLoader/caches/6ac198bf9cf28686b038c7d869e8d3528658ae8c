@@ -1,0 +1,9 @@
+{
+  "id" : "3af4f9617eb64cb0b26443fd593cf42a",
+  "name" : "Lunatrius",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NjU0NjI4MSwKICAicHJvZmlsZUlkIiA6ICIzYWY0Zjk2MTdlYjY0Y2IwYjI2NDQzZmQ1OTNjZjQyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5hdHJpdXMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWUxMmQ1OWRkNmEzMGJmMjM0NjEwNWMzNWNjYjAwY2Q5MTVjZTI2M2YwZWRjYWJjNzE5ODAyM2MzZDBiZTFhMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

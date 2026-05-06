@@ -1,0 +1,9 @@
+{
+  "id" : "3e595e62b3eb4761815ad70f12074b6e",
+  "name" : "Elysia",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyNjU1OTg4ODA1NiwKICAicHJvZmlsZUlkIiA6ICIzZTU5NWU2MmIzZWI0NzYxODE1YWQ3MGYxMjA3NGI2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbHlzaWEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTBlZjM3MzE1ZDZhZjdlNTM4ZDE3NjMzY2RkOGE4N2QxNWM0NzMyNzY5YjdkYTRhMzAwZGVhNDA3ZjYxYmY5MCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

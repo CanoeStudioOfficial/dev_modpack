@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	dependencies: [
+		"f7efa55a"
+	],
+	tasks: [{
+		uid: "9f231c74",
+		type: "item",
+		items: [{
+			item: "artisanworkstumps:log_basin"
+		}]
+	}]
+}

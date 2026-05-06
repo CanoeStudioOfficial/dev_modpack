@@ -1,0 +1,9 @@
+{
+  "id" : "d2e686c82d41417dbe34ab4ab4732cec",
+  "name" : "TheStrippin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0Mzg1MDQ0Mzg3MywKICAicHJvZmlsZUlkIiA6ICJkMmU2ODZjODJkNDE0MTdkYmUzNGFiNGFiNDczMmNlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTdHJpcHBpbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MGMzNjEzY2U5MTE3YTgwNjMzZTYwYWNkMTAxNDFiNzNhNjAyN2JiNDg0NWQ0MGZhODQ5NWYxMDczMGFiZGNmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d3cf097a438f4523b770ec11e13ecc32",
+  "name" : "LexManos",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczOTI0OTEzMDk5NywKICAicHJvZmlsZUlkIiA6ICJkM2NmMDk3YTQzOGY0NTIzYjc3MGVjMTFlMTNlY2MzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZXhNYW5vcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YjM1YWIxZjNkZWMzNzgyMmM3OGNhMGUyNmI0YzU4ZDNiNTZmMzAxODNiOTcyMmVlNDMxOTBhY2Y0ZTk0NzE2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

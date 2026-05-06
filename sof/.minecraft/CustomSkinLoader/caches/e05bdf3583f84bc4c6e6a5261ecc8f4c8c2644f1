@@ -1,0 +1,9 @@
+{
+  "id" : "4bfd9a1eaadb4f579ea9a5765a2adf13",
+  "name" : "Cindric",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NjUxNjg0OCwKICAicHJvZmlsZUlkIiA6ICI0YmZkOWExZWFhZGI0ZjU3OWVhOWE1NzY1YTJhZGYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kcmljIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y5NjZhN2M0YTRlYjgyMjlhMDhhNjU3ZjI4YzhhMmExMzUxZDkwNGU5ZmJhMzI4ODJhNzE3NWQ4NzhlZmFiZDYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

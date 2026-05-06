@@ -1,0 +1,9 @@
+{
+  "id" : "b476c98e175048bfad5ea21becd0aaeb",
+  "name" : "mDiyo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzMxNjcwODgzMCwKICAicHJvZmlsZUlkIiA6ICJiNDc2Yzk4ZTE3NTA0OGJmYWQ1ZWEyMWJlY2QwYWFlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtRGl5byIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZDFlNjYyYjJkNTRlYTZiODQzZWM1OTU1OTcxNWRkZTVjZDBlMTE3NzQzZDVhZDgzNDQ5NGI0MDE4NTIyNDZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

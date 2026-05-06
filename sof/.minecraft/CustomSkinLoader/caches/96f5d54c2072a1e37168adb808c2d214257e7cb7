@@ -1,0 +1,9 @@
+{
+  "id" : "cbf33660399442c38d2f6a1a84d56dea",
+  "name" : "Tinfoilchef",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0MzczNzI3OTcwNCwKICAicHJvZmlsZUlkIiA6ICJjYmYzMzY2MDM5OTQ0MmMzOGQyZjZhMWE4NGQ1NmRlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaW5mb2lsY2hlZiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODQwZGE0ODAxOTM5NzdmNDljNmY5ZTZhNGI3M2NlOWQ5ZjUxNGFhODM0ZDdkMDRmOGJlMmY3MDBhMzNmMDdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

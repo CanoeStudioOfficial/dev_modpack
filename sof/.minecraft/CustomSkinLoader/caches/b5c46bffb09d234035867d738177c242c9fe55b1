@@ -1,0 +1,9 @@
+{
+  "id" : "068b010db0cf4258876f981552762e52",
+  "name" : "sl1pg8r",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzUwODMzMywKICAicHJvZmlsZUlkIiA6ICIwNjhiMDEwZGIwY2Y0MjU4ODc2Zjk4MTU1Mjc2MmU1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbDFwZzhyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMzI0YmM2Y2U3NjAwNWEyMGQ1YWZhNjVkNDM2NDE1MjRhZmNjMTMzMzM2MmVmOWIwNDhhYzk1YmRlOWEwMDMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

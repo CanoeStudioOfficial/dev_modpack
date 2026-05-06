@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"7648bcf0"
+	],
+	tasks: [{
+		uid: "ecc5437a",
+		type: "item",
+		items: [{
+			item: "pyrotech:chopping_block"
+		}]
+	}]
+}

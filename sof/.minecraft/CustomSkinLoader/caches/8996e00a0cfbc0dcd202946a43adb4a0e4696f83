@@ -1,0 +1,9 @@
+{
+  "id" : "f6fe2200609d4fe688b6529d59ee5b71",
+  "name" : "impulseSV",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzY0NTQ1MywKICAicHJvZmlsZUlkIiA6ICJmNmZlMjIwMDYwOWQ0ZmU2ODhiNjUyOWQ1OWVlNWI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbXB1bHNlU1YiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI2NjFiZDQyNzI0MWI0YWIwNjFjNjU2ODY5NzIwOTFiNDc0NjFkMDY5NDcxNmQwMjQ5NThjMWY4Nzk3M2MwNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

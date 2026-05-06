@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"f7efa55a"
+	],
+	tasks: [{
+		uid: "8d7a96d4",
+		type: "item",
+		items: [{
+			item: "pyrotech:barrel_lid"
+		}]
+	}]
+}

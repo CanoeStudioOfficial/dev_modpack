@@ -1,0 +1,9 @@
+{
+  "id" : "90201c8957124f99a1c95d751565560a",
+  "name" : "Aureylian",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTE0MjIyNjE5MiwKICAicHJvZmlsZUlkIiA6ICI5MDIwMWM4OTU3MTI0Zjk5YTFjOTVkNzUxNTY1NTYwYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJleWxpYW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzA1NDU0N2RmM2RkMTdjODhiODg5OTMyMDM0YWI5MTUxMThjOWM4ZTY3N2M1ZWQ5ZTNkNTljNTllNjgyNWM0ZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,15 @@
+{
+	x: 14.0d,
+	y: -5.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"dfe90083"
+	],
+	tasks: [{
+		uid: "2ca5e936",
+		type: "item",
+		items: [{
+			item: "pyrotech:bellows"
+		}]
+	}]
+}

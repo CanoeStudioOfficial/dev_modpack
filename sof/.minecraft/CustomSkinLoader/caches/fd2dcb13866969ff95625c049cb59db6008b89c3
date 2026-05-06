@@ -1,0 +1,9 @@
+{
+  "id" : "0725f5725b4a4faaaaebfe260d0981ae",
+  "name" : "electronicbird",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzMxNDQxMiwKICAicHJvZmlsZUlkIiA6ICIwNzI1ZjU3MjViNGE0ZmFhYWFlYmZlMjYwZDA5ODFhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbGVjdHJvbmljYmlyZCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODI0YTRkMjEwNDdkNmNlMTA0MDQyODg5NTIxYTI4OTdlODNmZjBiMjY1OGU5NTc4ZmVkNWMzNTYyMmMxNDFjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

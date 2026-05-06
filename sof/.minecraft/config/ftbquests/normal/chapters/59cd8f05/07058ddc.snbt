@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	dependencies: [
+		"f7efa55a"
+	],
+	tasks: [{
+		uid: "497036c8",
+		type: "item",
+		items: [{
+			item: "pyrotech:wood_rack"
+		}]
+	}]
+}

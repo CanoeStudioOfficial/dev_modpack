@@ -1,0 +1,9 @@
+{
+  "id" : "6f50f9a445844192966d23dac2211e18",
+  "name" : "FatherToast",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzQ3NjQwNiwKICAicHJvZmlsZUlkIiA6ICI2ZjUwZjlhNDQ1ODQ0MTkyOTY2ZDIzZGFjMjIxMWUxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYXRoZXJUb2FzdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MDkwMmJlODE1MjE3MmM5NTk0ZDE1N2JjMWY2NjgzN2I0NzI0YjYwOWM3MDNlMjA4MzFlNmQzZTM2YTBkMGVjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

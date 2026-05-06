@@ -1,0 +1,9 @@
+{
+  "id" : "def7f1b5ef164e2c8ba6b63c4563d9f2",
+  "name" : "AnderZEL",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMyMDc5MjQ4OCwKICAicHJvZmlsZUlkIiA6ICJkZWY3ZjFiNWVmMTY0ZTJjOGJhNmI2M2M0NTYzZDlmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbmRlclpFTCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOTQ5OGY5YzdmYTA4OGZkMDgzODJhYzljNTliMGNhMzAyNTM4NmIyZGUxZTdmMjI1NTVkNGRmZWNjODY0MDY3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

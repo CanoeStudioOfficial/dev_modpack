@@ -1,0 +1,9 @@
+{
+  "id" : "c7672266c8524d5ead4b95069dfb208b",
+  "name" : "GenPage",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMTA0NzM1NCwKICAicHJvZmlsZUlkIiA6ICJjNzY3MjI2NmM4NTI0ZDVlYWQ0Yjk1MDY5ZGZiMjA4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZW5QYWdlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YzMzEwNWExYjc0ZGIyNDAzMzhjMzkwZTYzZTRkMDQwN2MwNWZmMjdkZDZjOTg4ZWQ1Y2MyZGMxNDYzZGM4MGIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

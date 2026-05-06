@@ -1,0 +1,9 @@
+{
+  "id" : "0f95811ab3b64dbaba034adfec7cf5ab",
+  "name" : "Azanor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzM5NjMxNiwKICAicHJvZmlsZUlkIiA6ICIwZjk1ODExYWIzYjY0ZGJhYmEwMzRhZGZlYzdjZjVhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBemFub3IiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTBkODA0MzQ5ZTFhMjI4ZDUzNWEzZmU0ZWQ5NDVhMTRkZTZhYWU2ZDc5MWFhZWFhOTk2OWI0ZjBiOGQ2ZTY5NyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

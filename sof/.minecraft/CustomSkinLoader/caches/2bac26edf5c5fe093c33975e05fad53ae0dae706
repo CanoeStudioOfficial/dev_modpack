@@ -1,0 +1,9 @@
+{
+  "id" : "ac224782efff4296b08cdbde8e47abdb",
+  "name" : "Mumbo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNjU0NTAxOCwKICAicHJvZmlsZUlkIiA6ICJhYzIyNDc4MmVmZmY0Mjk2YjA4Y2RiZGU4ZTQ3YWJkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNdW1ibyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZDgyYTMxYmUzNTVmYWUzODQyYWY4YTY2YTIwOGRmNjAyMjMwYTBmYzc0OGM3NDUzZTQ5MWUwODM3N2ViNGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

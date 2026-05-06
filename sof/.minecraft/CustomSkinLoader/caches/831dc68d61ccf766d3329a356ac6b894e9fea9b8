@@ -1,0 +1,9 @@
+{
+  "id" : "c6039e774a1e4f248441ec79d6d33653",
+  "name" : "GameChap",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczOTU4ODg2OTc1MCwKICAicHJvZmlsZUlkIiA6ICJjNjAzOWU3NzRhMWU0ZjI0ODQ0MWVjNzlkNmQzMzY1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYW1lQ2hhcCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTNkZDY1MDM1NjNiNzcyNjdmMjliNjUxZTdiZmE1ZTQwM2M2YmU0MDY0MWQxMzQ4ZWRhYjk2N2UwMDNlNzY1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

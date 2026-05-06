@@ -1,0 +1,9 @@
+{
+  "id" : "020242a17b9441799eff511eea1221da",
+  "name" : "EvilSeph",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMxOTk5MjE4MSwKICAicHJvZmlsZUlkIiA6ICIwMjAyNDJhMTdiOTQ0MTc5OWVmZjUxMWVlYTEyMjFkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdmlsU2VwaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzEyZDQyYTg5MDM3ZjVjYzM2NDQ5ZTkzN2JhMDcyZTFkMzk0OWQ2ZDdjNGYyNDQ0MDk2ODZjZjFlMzVjNTUyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

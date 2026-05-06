@@ -1,0 +1,9 @@
+{
+  "id" : "a3075fa7ec1349a2aa476529e8b7daf2",
+  "name" : "ZombieCleo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMyMDI3ODg3MiwKICAicHJvZmlsZUlkIiA6ICJhMzA3NWZhN2VjMTM0OWEyYWE0NzY1MjllOGI3ZGFmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJab21iaWVDbGVvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5ZmVmZjgzOGFiNTZlNDAyNWVlZjg3ZTkzYzQxODg3ODExMGQ4YzhkOTA1ZDhmZDRiNDkzODg5YzAxYTVmMTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

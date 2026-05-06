@@ -1,0 +1,9 @@
+{
+  "id" : "5c1bcee3b21142b1885fe51d4fe9e0ae",
+  "name" : "Emasher",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwODMzMDM3MSwKICAicHJvZmlsZUlkIiA6ICI1YzFiY2VlM2IyMTE0MmIxODg1ZmU1MWQ0ZmU5ZTBhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbWFzaGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhNGFmNzE4NDU1ZDRhYWI1MjhlN2E2MWY4NmZhMjVlNmEzNjlkMTc2OGRjYjEzZjdkZjMxOWE3MTNlYjgxMGIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

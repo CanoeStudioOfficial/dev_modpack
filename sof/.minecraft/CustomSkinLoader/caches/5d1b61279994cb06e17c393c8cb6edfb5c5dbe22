@@ -1,0 +1,9 @@
+{
+  "id" : "15d7265015e4445fb794d9ffb99918eb",
+  "name" : "Arkember",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTE0MjIwNDI2NywKICAicHJvZmlsZUlkIiA6ICIxNWQ3MjY1MDE1ZTQ0NDVmYjc5NGQ5ZmZiOTk5MThlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmtlbWJlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ODk5NmIzNjQ4Y2Q1YjUxOWIyMjEzY2I5ZWYyMGRkMjQxYmZlZDVlZTFjMmE1ZDJkMmQ3N2EyOGZlNWJkOTIzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

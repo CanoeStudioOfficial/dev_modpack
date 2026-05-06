@@ -1,0 +1,9 @@
+{
+  "id" : "2f72315024de44ffaeee87c75f7c7a9e",
+  "name" : "VintageBeef",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTMxOTI1NDExOSwKICAicHJvZmlsZUlkIiA6ICIyZjcyMzE1MDI0ZGU0NGZmYWVlZTg3Yzc1ZjdjN2E5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaW50YWdlQmVlZiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYmE0NjI3ODc1OTM1OTcxZmI1NDE4NGVlYTU4ZDE2MDIxOGM4N2MwNTgyYjdkZmM1YTkzYmFiNjM3MzU0ZGVhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

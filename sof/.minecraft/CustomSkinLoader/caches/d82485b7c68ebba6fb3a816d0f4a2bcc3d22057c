@@ -1,0 +1,9 @@
+{
+  "id" : "dfaccdb454724aa697147365a0272304",
+  "name" : "SuperMCGamer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTEzOTA0MDUxNiwKICAicHJvZmlsZUlkIiA6ICJkZmFjY2RiNDU0NzI0YWE2OTcxNDczNjVhMDI3MjMwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdXBlck1DR2FtZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRmNjMxNmU2NmUwNTU5YzBiYzA5YTU5NWE0Y2Q5M2Y4M2UxZGMwZjdkYTQ3YWQzZjFmOTAyZjMyNTYyOTI3ZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

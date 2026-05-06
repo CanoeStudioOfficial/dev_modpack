@@ -1,0 +1,62 @@
+name: build (Curseforge)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "sof/.minecraft/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      actions: write
+      contents: read
+
+    defaults:
+      run:
+        working-directory: ./sof/.minecraft
+
+    steps:
+      - name: 1. Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: 2. Setup Go environment
+        uses: actions/setup-go@v6
+        with:
+          go-version: "1.23.3"
+          cache: false
+
+      - name: 3. Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: 4. Export Curseforge modpack
+        id: export
+        run: |
+          packwiz curseforge export
+
+      - name: 5. Rename modpack file
+        run: |
+          original_name=$(ls *.zip | head -n 1 | sed 's/.zip$//')
+          short_sha=$(git log -1 --format="%h" -- .)
+          new_name="${original_name}-build-${short_sha}"
+          mv "${original_name}.zip" "${new_name}.zip"
+          echo "FILE_PATH=${new_name}.zip" >> $GITHUB_ENV
+          echo "FILE_NAME=${new_name}" >> $GITHUB_ENV
+
+      - name: 6. Create directory and extract
+        run: |
+          mkdir -p unzipped
+          unzip -O UTF-8 "$FILE_PATH" -d unzipped/
+
+      - name: 7. Upload to Artifact
+        uses: actions/upload-artifact@v6
+        with:
+          name: ${{ env.FILE_NAME }}
+          path: sof/.minecraft/unzipped/
+          retention-days: 4

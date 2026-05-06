@@ -1,0 +1,9 @@
+{
+  "id" : "7e6d65ed6fd840a786f8df09791572fc",
+  "name" : "Myrathi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODcwNDM2Mjk1MCwKICAicHJvZmlsZUlkIiA6ICI3ZTZkNjVlZDZmZDg0MGE3ODZmOGRmMDk3OTE1NzJmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeXJhdGhpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQwNTgwYWFiYzNjZjMyMDVjNjEyNWZkOWVkMzIzMjVjN2NkNzE5YjdhYzMwYjE4NjVhMTQyNmRmN2FhZWIzZWMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

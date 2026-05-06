@@ -1,0 +1,9 @@
+{
+  "id" : "b080f65aedc4485cbe20a469d0795843",
+  "name" : "sotmead",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0NTEzOTA2MzkwOCwKICAicHJvZmlsZUlkIiA6ICJiMDgwZjY1YWVkYzQ0ODVjYmUyMGE0NjlkMDc5NTg0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzb3RtZWFkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhZTA2MWM2MzMyYzkwNTQ0N2YxMWMyZmQ4MDc0YTkxYjY2MDc3YmRlODUzZWMxMWYwN2JjM2JjMmE2YzFjOWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

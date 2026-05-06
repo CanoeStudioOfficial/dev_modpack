@@ -1,0 +1,9 @@
+{
+  "id" : "4f045984d2b0499f83c663dc77336909",
+  "name" : "KakerMix",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODUwMTIxMzIzMiwKICAicHJvZmlsZUlkIiA6ICI0ZjA0NTk4NGQyYjA0OTlmODNjNjYzZGM3NzMzNjkwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWtlck1peCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGUyYmFlZjVkNWVkNWYzNzAyMDg4M2JmMjYzYTlkZGY4N2NhOGEzYzkwYTRlNmQ5MTI5YzA2Y2ZjMzA5ZjU1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

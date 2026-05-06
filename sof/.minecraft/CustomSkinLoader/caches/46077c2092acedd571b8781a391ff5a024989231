@@ -1,0 +1,9 @@
+{
+  "id" : "a51db1d3b9a54bdfa91c71b1ecbe91ff",
+  "name" : "xiaobn1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcyMzczOTAzOTg1MywKICAicHJvZmlsZUlkIiA6ICJhNTFkYjFkM2I5YTU0YmRmYTkxYzcxYjFlY2JlOTFmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4aWFvYm4xIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMGMwNzNkYWE2MDE0YTM2ZDNiY2I0NDc5YjM2YWQwM2VlYTQ5YTI0OTVjNDYzNWE0MGFmNjIyMjhlMTQ5ZGUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

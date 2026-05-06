@@ -1,0 +1,9 @@
+{
+  "id" : "72ddaa057bbe4ae298922c8d90ea0ad8",
+  "name" : "RWTema",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0Mzg1MDU3OTc3MSwKICAicHJvZmlsZUlkIiA6ICI3MmRkYWEwNTdiYmU0YWUyOTg5MjJjOGQ5MGVhMGFkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSV1RlbWEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTExZjdkYmVkZDkwM2M3ZjJjZjk4Mjc2OWJkOGU3YjczMTZhOTgzODA4ODQ0ZjMxMWQ3MjQ4ZjVlMjVhNGQ2YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

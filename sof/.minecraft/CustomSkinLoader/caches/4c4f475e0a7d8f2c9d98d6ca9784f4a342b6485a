@@ -1,0 +1,9 @@
+{
+  "id" : "90f9a19fe32d462284c314feaaf85cd7",
+  "name" : "Biffa2001",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc0ODc1NzM5NTM0MSwKICAicHJvZmlsZUlkIiA6ICI5MGY5YTE5ZmUzMmQ0NjIyODRjMzE0ZmVhYWY4NWNkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCaWZmYTIwMDEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzkwMjRjMTE4ZTc5YjM5NTBmNGIxNmZlN2NkMDk2NGRiNTA2NTg4ZGUxZjRmYzI5NDQwMTQyMmZjYWVlZmFlMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
