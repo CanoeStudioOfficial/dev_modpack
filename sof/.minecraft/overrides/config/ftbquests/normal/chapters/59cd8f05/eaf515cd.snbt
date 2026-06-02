@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"e9bc2886"
+	],
+	tasks: [{
+		uid: "04a19315",
+		type: "item",
+		items: [{
+			item: "sof:fiber_stick"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "2d4d66c6",
+		type: "item",
+		item: "sof:fiber_stick",
+		count: 10,
+		only_one: 1b
+	},
+	{
+		uid: "ae054290",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

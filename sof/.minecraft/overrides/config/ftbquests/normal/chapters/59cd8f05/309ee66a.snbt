@@ -1,0 +1,53 @@
+{
+	x: 0.5d,
+	y: 2.0d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ed780e11"
+	],
+	tasks: [{
+		uid: "b231f2e5",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_axe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "7eadf4d1",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_hoe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "75202974",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9f6fe634",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_shovel"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f110f1d5",
+		type: "item",
+		items: [{
+			item: "pyrotech:bone_sword"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

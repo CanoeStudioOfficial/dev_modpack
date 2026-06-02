@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"87f1ab3e"
+	],
+	tasks: [{
+		uid: "07ccdd77",
+		type: "item",
+		items: [{
+			item: "pyrotech:barrel"
+		}]
+	},
+	{
+		uid: "a404ebe6",
+		type: "item",
+		items: [{
+			item: "pyrotech:barrel_lid"
+		}]
+	}]
+}

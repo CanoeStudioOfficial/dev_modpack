@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "sof:flint_clay_block"
+    }
+  }
+}

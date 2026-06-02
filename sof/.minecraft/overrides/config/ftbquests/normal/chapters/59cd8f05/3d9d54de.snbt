@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 2.5d,
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"3a7c9278"
+	],
+	tasks: [{
+		uid: "b559b8a0",
+		type: "item",
+		items: [{
+			item: "pyrotech:anvil_iron_plated"
+		}]
+	}]
+}

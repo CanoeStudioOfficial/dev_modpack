@@ -1,0 +1,13 @@
+
+
+
+
+sof.disabled_block.tooltip=此方块已被禁用！
+
+item.sof.fiber_stick.name=纤维木棍
+itemGroup.content.sof_tab=生存起源与未来
+fluid.sof.refractory_mud.name=耐火泥浆
+item.sof.guide_book_tab.name=标签
+tile.contenttweaker.flint_clay_block.name=燧石粘土块
+fluid.sof.flint_clay.name=燧石粘土浆
+tile.contenttweaker.wood_fiber_cement.name=木纤维水泥

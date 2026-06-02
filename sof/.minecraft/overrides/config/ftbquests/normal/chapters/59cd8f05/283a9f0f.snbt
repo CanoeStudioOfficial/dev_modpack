@@ -1,0 +1,72 @@
+{
+	x: 2.5d,
+	y: -0.5d,
+	dependencies: [
+		"eaf515cd"
+	],
+	tasks: [{
+		uid: "8fc5d6b5",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_axe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6234d173",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_shovel"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "da15aa26",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_hoe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4c361f68",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b060ce62",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_hammer"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "138010e4",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_spear"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7e5d6478",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "3398c661",
+		type: "item",
+		item: "pyrotech:apple_baked",
+		count: 30
+	}]
+}

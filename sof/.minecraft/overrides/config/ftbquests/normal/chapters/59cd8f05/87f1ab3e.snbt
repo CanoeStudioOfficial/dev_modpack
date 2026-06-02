@@ -1,0 +1,14 @@
+{
+	x: 4.0d,
+	y: -0.5d,
+	dependencies: [
+		"283a9f0f"
+	],
+	tasks: [{
+		uid: "fa354aa4",
+		type: "item",
+		items: [{
+			item: "pyrotech:worktable"
+		}]
+	}]
+}

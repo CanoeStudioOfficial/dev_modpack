@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 0.5d,
+	dependencies: [
+		"87f1ab3e"
+	],
+	tasks: [{
+		uid: "bbfda687",
+		type: "item",
+		items: [{
+			item: "pyrotech:compost_bin"
+		}]
+	}]
+}

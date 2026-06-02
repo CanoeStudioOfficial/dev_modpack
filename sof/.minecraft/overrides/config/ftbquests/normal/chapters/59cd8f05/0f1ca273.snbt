@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: -2.5d,
+	dependencies: [
+		"c42f3dce"
+	],
+	tasks: [{
+		uid: "4c8e12a1",
+		type: "item",
+		items: [{
+			item: "pyrotech:carcass"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

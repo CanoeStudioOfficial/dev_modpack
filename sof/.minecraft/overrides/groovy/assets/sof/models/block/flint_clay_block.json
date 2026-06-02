@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sof:blocks/flint_clay_block"
+  }
+}
